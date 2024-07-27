@@ -1,0 +1,28 @@
+#For Chatbot and Vector Embeddings Generation
+chromadb== 0.5.3
+pysqlite3
+protobuf==3.20.*
+streamlit==1.36.0
+pypdf==4.2.0
+langchain==0.2.5
+langchain-community==0.2.5
+langchain-huggingface==0.0.3
+python-dotenv
+
+#If there is issue with Chroma and Pysqlite3 installation, follow below steps 
+#Step1: Download Python 3.10 version and then install chromadb using below command
+pip install chromadb 
+#Step2: For pysqlite3 installation keep the wheel file (available in Github repo) in your project directory and run below command
+pip install pysqlite3_wheels-0.5.0-cp310-cp310-win_amd64
+
+# For Metrics Evaluation of RAG pipeline
+numpy
+scikit-learn
+nltk
+rouge-score
+spacy
+torch
+transformers
+
+# Download spaCy English language model
+python -m spacy download en_core_web_sm
