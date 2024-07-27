@@ -4,6 +4,8 @@ This repository contains the code and instructions to evaluate the performance m
 
 ![alt text](image.png)
 
+### Youtube Tutorial: 
+### Evaluation Report & Document: Evaluation_Report.pdf (available in github repo)
 ## Table of Contents
 
 1. [Prerequisites](#prerequisites)
