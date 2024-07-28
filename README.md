@@ -6,7 +6,7 @@ This repository contains the code and instructions to evaluate the performance m
 
 ------------------------------------
 ### Youtube Tutorial: https://youtu.be/GGTLaIRUm_k
-### Evaluation Report & Document: Evaluation_Report.pdf (available in github repo)
+### Evaluation Report & Document: Evaluation_Report.pdf & Metrics_Evaluation_of_RAG_Chatbot.pdf (available in github repo)
 ------------------------------------
 
 ## Table of Contents
